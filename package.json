@@ -1,0 +1,11 @@
+{
+  "name": "LTKCypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AndrewLAllen/LTKcypress",
+  "author": "Andrew",
+  "license": "MIT",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3"
+  }
+}
